@@ -34,4 +34,3 @@ It allows users to perform actions such as creating, viewing, and managing user 
 
 ```bash
 git clone <your-repo-url>
-cd <project-folder>
