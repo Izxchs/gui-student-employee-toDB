@@ -33,4 +33,4 @@ It allows users to perform actions such as creating, viewing, and managing user 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Izxchs/gui-student-employee-toDB.git
